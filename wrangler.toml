@@ -1,10 +1,10 @@
-name = "receipt"
+name = "YOUR PROJECT NAME"
 main = "src/index.ts"
 compatibility_flags = [ "nodejs_compat" ]
 compatibility_date = "2026-02-28"
 
 [[ d1_databases ]]
 binding = "DB"
-database_name = "receipt"
-database_id = "7194a31d-893e-46e9-9d04-48a294b33c81"
+database_name = "YOUR DB NAME"
+database_id = "YOUR DB ID"
 migrations_dir = "drizzle"
